@@ -1,7 +1,7 @@
 <h1 align="center">
   Challenge GoStack React Native 🚀
   <p align="center">
-  <img src="https://img.shields.io/badge/tech-front--end-green" />
+  <img src="https://img.shields.io/badge/tech-frontend-green" />
 
   <a href="https://reactnative.dev/">
     <img src="https://img.shields.io/badge/framework-reactnative-blue" />
